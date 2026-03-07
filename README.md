@@ -2,7 +2,7 @@
 <h3 align="center">💻 Aspiring Software Developer | 🚀 Backend Developer </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Python+Developer;Django+Developer;AI+and+Automation+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Python+Developer;Django+Developer;Building+Real+World+Projects" />
 </p>
 
 ---
