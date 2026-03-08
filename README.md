@@ -1,5 +1,5 @@
 <!-- Header Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shyam%20Chavda&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Django&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shyam%20Chavda&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=18" />
 
 <!-- Typing Animation -->
 <div align="center">
