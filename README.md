@@ -1,102 +1,99 @@
-<h1 align="center">Hi 👋, I'm Shyam Chavda</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🚀 Backend Developer </h3>
+<!-- Header Wave Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shyam%20Chavda&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Django&descAlignY=55&descSize=18" />
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Python+Developer;Django+Developer;Building+Real+World+Projects" />
-</p>
+<!-- Typing Animation -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=💡+Building+Scalable+Real-World+Systems;🔥+Code.+Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
+
+</div>
+
+---
+<div align="center"> 👋 Hey Dear, welcome you to my github profile </div> <br> 
+
+<!-- About Section with GIF side by side -->
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+## 🧑‍💻 About Me
+
+- 😊 I'm shyam, i am fine what about you
+- 🎓 I am Post-Graduate student Passionate about **Software Development**
+- 💻 I Know about **Java, Python, Web-Dev**
+- 🌱 Currently learning **DSA, Python, Java, Building Backend System**
+- ⚡ Eager to slove **real-world problems with code**
+
+</td>
+<td width="45%" align="center" valign="top">
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF" style="border-radius: 12px;" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ShyamChavda005&label=👁️+Views&color=6E40C9&style=flat-square)](https://github.com/ShyamChavda005)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 👨‍💻 About Me
+<!-- Tech Stack -->
+## 🚀 Tech Stack & Tools
 
-- 🎓 Passionate about **Software Development**
-- 💻 Working with **Java, Python, Django, and Web Technologies**
-- 🌱 Currently learning **Backend Systems**
-- ⚡ Love solving **real-world problems with code**
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=java,python,js,mysql,php&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&perline=6" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=6" />
 
----
+</div>
 
-# 🚀 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,sql" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django" />
-</p>
-
-### 🛠 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postgres,mysql,vscode,idea" />
-</p>
+<br/>
 
 ---
 
+<!-- Contribution Graph -->
+## 📈 Activity Graph
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShyamChavda005&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShyamChavda005&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamChavda005&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamChavda005&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true&area_color=6E40C920" />
+</div>
 
 ---
 
-# 🏆 Achievements
+<!-- Connect Section -->
+## 🤝 Let's Connect
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShyamChavda005&theme=tokyonight&margin-w=15&margin-h=15"/>
-</p>
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamChavda005&theme=tokyo-night"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
+<em><b> Connect with me, I'll be happy to meet you! </b> 😊</em>
 
 <a href="https://github.com/ShyamChavda005">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <img src="https://skillicons.dev/icons?i=github&perline=6" />
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/shyamchavda005">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&perline=6" />
+</a>
+&nbsp;
+<a href="mailto:shyamchavda005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&perline=6" />
 </a>
 
-<a href="mailto:shyamchavda005">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 👀 Profile Views
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShyamChavda005&label=Profile%20Views&color=blue&style=flat" />
-</p>
+<div align="center">
+  
+**⭐ Thanks for visiting! ⭐ See you next time!**
 
----
-
-⭐ **"Code. Learn. Build. Improve."**
+</div>
