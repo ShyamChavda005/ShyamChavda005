@@ -9,7 +9,7 @@
 </div>
 
 ---
-<div align="center"> 👋 Hey Dear, welcome you to my github profile </div> <br> 
+<div align="center"> <h1> 👋 Hey there, Welcome you to my GitHub profile. </h1> </div> 
 
 <!-- About Section with GIF side by side -->
 <table align="center" width="100%">
