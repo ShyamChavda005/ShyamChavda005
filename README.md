@@ -19,8 +19,8 @@
 ## 🧑‍💻 About Me
 
 - 😊 I'm shyam, i am fine what about you
-- 🎓 I am Post-Graduate student Passionate about **Software Development**
-- 💻 I Know about **Java, Python, Web-Dev**
+- 🎓 I am Post-Graduate student Passionate about **Software Development, Web Development**
+- 💻 I Know about **Java, Python, Web-Dev, JavaScript**
 - 🌱 Currently learning **DSA, Python, Java, Building Backend System**
 - ⚡ Eager to slove **real-world problems with code**
 
