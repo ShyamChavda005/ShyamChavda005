@@ -45,10 +45,10 @@
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=java,python,js,react&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,python,react&perline=6" />
 <img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=6" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,vscode&perline=6" />
 
 </div>
 
