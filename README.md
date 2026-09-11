@@ -46,7 +46,7 @@
 <div align="center">
   
 <img src="https://skillicons.dev/icons?i=java,python,js,php&perline=6" />
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=6" />
 <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea&perline=6" />
 
