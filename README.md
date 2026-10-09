@@ -1,90 +1,71 @@
-<!-- Header Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shyam%20Chavda&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=18" />
+<!-- ==================== HEADER ==================== -->
 
-<!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=💡+Building+Scalable+Real-World+Systems;🔥+Code.+Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6366F1&height=210&section=header&text=Shyam%20Chavda&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Development%20%7C%20Backend%20Engineering&descAlignY=60&descSize=16&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&height=50&lines=Building+Real-World+Solutions;Python+%7C+SqlAlchemy+%7C+RESTful+APIs+%7C+Backend+Development;Learn.+Build.+Solve.+Repeat." alt="Typing SVG" />
+
+</a>
+
+
+**MCA Student | Aspiring Software Engineer**
 
 </div>
 
 ---
-<div align="center"> <h1> 👋 Hey there, Welcome you to my GitHub profile. </h1> </div> 
 
-<!-- About Section with GIF side by side -->
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
+<!-- ==================== ABOUT ==================== -->
 
-## 🧑‍💻 About Me
+## About Me
 
-- 😊 I'm shyam, i am fine what about you
-- 🎓 I am Post-Graduate student Passionate about **Software Development, Web Development**
-- 💻 I Know about **Java, Python, Web-Dev, JavaScript**
-- 🌱 Currently learning **DSA, Python, Java, Building Backend System**
-- ⚡ Eager to slove **real-world problems with code**
+I'm an MCA student specializing in Artificial Intelligence, passionate about software development, backend engineering, and solving real-world problems through technology.
 
-</td>
-<td width="45%" align="center" valign="top">
-<br/>
+I enjoy building practical applications, exploring new technologies, and strengthening my programming and problem-solving skills.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding GIF" style="border-radius: 12px;" />
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ShyamChavda005&label=👁️+Views&color=6E40C9&style=flat-square)](https://github.com/ShyamChavda005)
-
-</td>
-</tr>
-</table>
+* **Languages:** Java, Python, JavaScript
+* **Backend:** FastAPI, SQLAlchemy, Pydantic, API Development
+* **Databases:** PostgreSQL, MySQL
+* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
 
 ---
 
-<!-- Tech Stack -->
-## 🚀 Tech Stack & Tools
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-<img src="https://skillicons.dev/icons?i=java,python,react&perline=6" />
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&perline=6" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=6" />
-<img src="https://skillicons.dev/icons?i=git,vscode&perline=6" />
+
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,git,postman,vscode&theme=dark" />
 
 </div>
 
-<br/>
-
 ---
 
-<!-- Connect Section -->
+<!-- ==================== CONNECT ==================== -->
+
 ## 🤝 Let's Connect
 
 <div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
 
-<em><b> Connect with me, I'll be happy to meet you! </b> 😊</em>
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ShyamChavda005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shyamchavda005)
+[![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shyamchavda005@gmail.com)
 
 <a href="https://github.com/ShyamChavda005">
-  <img src="https://skillicons.dev/icons?i=github&perline=6" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/shyamchavda005">
-  <img src="https://skillicons.dev/icons?i=linkedin&perline=6" />
-</a>
-&nbsp;
-<a href="mailto:shyamchavda005@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&perline=6" />
+<img src="https://komarev.com/ghpvc/?username=ShyamChavda005&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
 </a>
 
-</div>
+<br/> <br/>
 
----
+**Thanks for visiting my profile!**
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+*Keep learning. Keep building. Keep shipping.*
 
-<div align="center">
-  
-**⭐ Thanks for visiting! ⭐ See you next time!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0F172A&height=110&section=footer" />
 
 </div>
